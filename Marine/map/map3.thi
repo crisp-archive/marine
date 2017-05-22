@@ -1,0 +1,15 @@
+[map]
+name=突破封锁线[猎杀潜艇:狼群]
+mission=敌人封锁了港口与外界的通道.
+method=1
+size=5
+1=/  A  /
+2=X X X X
+3=/X X X/
+4=X X X X
+5=/  U  /
+gas=2
+battery=3
+torpedo=6
+captain=舍普克
+number=100

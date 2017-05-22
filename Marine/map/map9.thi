@@ -1,0 +1,20 @@
+[map]
+name=最后的起航[猎杀潜艇:狼群]
+mission=伟大的战士们!做出最后牺牲的准备吧!
+method=1
+size=10
+ 1=AXX    XXA
+ 2=XXX XX XXX
+ 3=XX      XX
+ 4=/  XXXXX//
+ 5=/  X  XX//
+ 6=/////  X//
+ 7=/ XXX/ X//
+ 8=/ XXX/  //
+ 9=/  XX/////
+10=/U XX/////
+gas=10
+battery=0
+torpedo=20
+captain=G.C.詹姆斯
+number=3008

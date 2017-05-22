@@ -1,0 +1,17 @@
+[map]
+name=紧急下潜[猎杀潜艇:狼群]
+mission=紧张的战斗马上开始!
+method=2
+size=7
+1=///////
+2=/     /
+3=/ X X /
+4=/  U  /
+5=/ X X /
+6=/     /
+7=///////
+gas=0
+battery=5
+torpedo=6
+captain=伦普
+number=30

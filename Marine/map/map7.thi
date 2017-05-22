@@ -1,0 +1,19 @@
+[map]
+name=赤色月光[猎杀潜艇:狼群]
+mission=在那浩瀚的大洋上,将发生一场惨烈的战役.
+method=1
+size=9
+ 1=/A///////
+ 2=/XXX XXX/
+ 3=/  XXX  /
+ 4=/XX/X/XX/
+ 5=/ XXUXX /
+ 6=/XX/X/XX/
+ 7=/  XXX  /
+ 8=/XXX XXX/
+ 9=///////A/
+gas=4
+battery=4
+torpedo=16
+captain=约翰·莫尔
+number=124

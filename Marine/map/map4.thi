@@ -1,0 +1,17 @@
+[map]
+name=普里恩的故事[猎杀潜艇:狼群]
+mission=潜入斯卡帕湾并击沉所遇到的船只,特别是"皇家橡树"号.
+method=1
+size=7
+1=X X X A
+2= X X //
+3=/ X X /
+4=/ /////
+5=X   ///
+6=/// ///
+7=/ U ///
+gas=4
+battery=0
+torpedo=8
+captain=冈瑟·普里恩
+number=47
